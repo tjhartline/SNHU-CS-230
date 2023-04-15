@@ -1,0 +1,2 @@
+C:\Users\ws_tammy.hartline\OneDrive - SNHU\Desktop\CourseWork\CS-230\module2\obj\x86\Debug\CS230.vbproj.AssemblyReference.cache
+C:\Users\ws_tammy.hartline\OneDrive - SNHU\Desktop\CourseWork\CS-230\module2\obj\x86\Debug\CS230.vbproj.CoreCompileInputs.cache
