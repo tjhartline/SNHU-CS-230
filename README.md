@@ -3,7 +3,31 @@ Student: Tammy Hartline
 Instructor: Brian Enochson
 CS-230 course assignments and projects through SNHU 2023
 
-Course Information:
+**Journal Assignent - Final Week 8**
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client?
+The Gaming Room client was looking to expand their already established gaming platform for their Draw It Or Lose It game, that would allow users to participate in the game on multiple platforms, versus the current android only version. 
+
+What type of software did they want you to design?
+They want the game to be based on the current Android application and are seeking help with environment setup and streamlining their development. The game will need to be developed using a cross-platform approach. Each game and team name needs to be unique, and the game should only allow one instance of the game to exist in memory at a time. Each team will have more than one player assigned per team, and the game will need the ability to have multiple or single teams playing per game.
+
+What did you do particularly well in developing this documentation?
+My instructor expressed that I exceeded expectations when developing and expressing the evaluations section of the documentation.
+
+What about the process of working through a design document did you find helpful when developing the code?
+For me, the structure and organization of a design document was extremely helpful, as I tend to overdocument to ensure I am not leaving out any neccessary details. This was avoided by following the straight forward template design and ensuring all requirements were met, without over complicating things, which is something I absolutely have the tendency to do.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I could change part of my work, I would like to have included pseudocode somewhere within the template. While pseudocode is typically the bain of my existence, I have found it to be very helpful when developing larger projects, both at work and in school, for the last few terms, once I understood not to let myself get hung up on the details. I think this would improve my documentation overall, to give everyone on the team a better understanding of what it is going to take to meet the clients requirements and expectations, while also lending insight into which team members have the needed skillsets to complete the project.
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+This is something that I typically exceed at, and this was no exception. Ensuring you can translate what the client needs and wants into technical terms is a critical part of being a consultant or contractor, as your role here is much like that of translator or liasion. It is important to understand what the client wants, while also having have some level of understanding on how to actually turn their ideas into a product they are expecting and are happy with. I think to often this step is overlooked as being a critical skill that one needs, but it should not be! Without the ability to interpret what the client needs into technical terms for developers, you have chaos, unhappy clients, as their results will not be what they wanted nor expected, and unhappy developers, who ultimately wasted their time creating a product that is not going to be used.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+Research and study is the main approach I always use. While it is tedious and time consuming to read documentation and different strategies, ultimately it saves time and costly mistakes that happen when we jump head first into something without knowing the depth of the water, so to speak. Taking things one section or group at a time, and implementing an approach similar to Agile methodolgies has been proven as the best way for me to approach designing software. I like to keep in mind that the more detailed I can be within each section, the easier the development and testing will be when it is time for those steps.
+
+
+**Syllabus Course Information:**
 CS 230: Operating Platforms
 Center: Online
 
