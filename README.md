@@ -1,4 +1,4 @@
-# SNHU-CS-230
+# SNHU-CS-230 Operating Platforms
 Student: Tammy Hartline
 Instructor: Brian Enochson
 CS-230 course assignments and projects through SNHU 2023
